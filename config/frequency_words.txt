@@ -38,9 +38,12 @@ LLM
 
 自动驾驶
 
-美国
-日本
-韩国
+金沙
+套利
+
+mysql
+postgresql
+
 
 芯片
 光刻机
@@ -66,6 +69,7 @@ spring
 
 dotnet
 WPF
+.net
 
 外企
 
